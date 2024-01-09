@@ -1,5 +1,11 @@
+import OneUseRef from "./components/pages/OneUseRef";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <OneUseRef />
+    </>
+  );
 }
 
 export default App;
